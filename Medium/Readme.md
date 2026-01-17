@@ -10,6 +10,7 @@ Each problem includes optimized code solutions and detailed explanation material
 | No. | Problem Name | Topic(s) | Solution | Explanation |
 |----:|--------------|----------|----------|-------------|
 | 1091 | Shortest Path in Binary Matrix | BFS, Graph Traversal | ✔️ | ✔️ |
+| 1583 | Count Unhappy Friends | Arrays, Simulation | ✔️ | ✔️ |
 
 ---
 
