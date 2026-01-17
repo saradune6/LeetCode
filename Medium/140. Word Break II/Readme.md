@@ -1,39 +1,52 @@
 # 140. Word Break II – Explanation Slides 📊
 
-This folder contains step-by-step visual explanations for **LeetCode 140. Word Break II**.
-
-Each image represents a slide explaining the problem, intuition, approach, and solution flow in a clear and structured manner.
+Below are the visual explanation slides stored in the `Explanation/` folder.
 
 ---
 
-## 📌 Slides Overview
+## 📌 Slides
 
-1. **Explanation/140. Word Break II-1.jpg** – Problem statement  
-2. **Explanation/140. Word Break II-2.jpg** – Example walkthrough  
-3. **Explanation/140. Word Break II-3.jpg** – Constraints and observations  
-4. **Explanation/140. Word Break II-4.jpg** – Why brute force is inefficient  
-5. **Explanation/140. Word Break II-5.jpg** – Overall strategy overview  
-6. **Explanation/140. Word Break II-6.jpg** – Dynamic Programming (DP) idea  
-7. **Explanation/140. Word Break II-7.jpg** – DP array initialization  
-8. **Explanation/140. Word Break II-8.jpg** – DP transition logic  
-9. **Explanation/140. Word Break II-9.jpg** – Valid break positions  
-10. **Explanation/140. Word Break II-10.jpg** – DFS + backtracking concept  
-11. **Explanation/140. Word Break II-11.jpg** – Recursive DFS flow  
-12. **Explanation/140. Word Break II-12.jpg** – Memoization optimization  
-13. **Explanation/140. Word Break II-13.jpg** – Combining DP with DFS  
-14. **Explanation/140. Word Break II-14.jpg** – Time & space complexity  
-15. **Explanation/140. Word Break II-15.jpg** – Final solution summary
+### 1. Problem Statement
+![Problem Statement](Explanation/140. Word Break II-1.jpg)
 
----
+### 2. Example Walkthrough
+![Example](Explanation/140. Word Break II-2.jpg)
 
-## 🎯 Purpose of These Slides
-- Build strong intuition for the problem  
-- Understand how **DP + DFS + Memoization** work together  
-- Enable quick revision before coding interviews  
+### 3. Constraints & Observations
+![Constraints](Explanation/140. Word Break II-3.jpg)
 
----
+### 4. Why Brute Force Fails
+![Brute Force](Explanation/140. Word Break II-4.jpg)
 
-## 📁 Naming Convention
+### 5. Overall Strategy
+![Strategy](Explanation/140. Word Break II-5.jpg)
 
-All explanation images follow this format:
+### 6. DP Idea
+![DP Idea](Explanation/140. Word Break II-6.jpg)
 
+### 7. DP Initialization
+![DP Init](Explanation/140. Word Break II-7.jpg)
+
+### 8. DP Transition
+![DP Transition](Explanation/140. Word Break II-8.jpg)
+
+### 9. Valid Break Positions
+![Break Positions](Explanation/140. Word Break II-9.jpg)
+
+### 10. DFS + Backtracking
+![DFS](Explanation/140. Word Break II-10.jpg)
+
+### 11. DFS Flow
+![DFS Flow](Explanation/140. Word Break II-11.jpg)
+
+### 12. Memoization
+![Memo](Explanation/140. Word Break II-12.jpg)
+
+### 13. DP + DFS Combined
+![DP DFS](Explanation/140. Word Break II-13.jpg)
+
+### 14. Complexity Analysis
+![Complexity](Explanation/140. Word Break II-14.jpg)
+
+### 15. Final Summary
+![Summary](Explanation/140. Word Break II-15.jpg)
