@@ -1,6 +1,6 @@
-# LeetCode – Medium Problems 📘
+# LeetCode – Hard Problems 📘
 
-This folder contains solutions to **LeetCode Medium-level problems**, organized folder-wise.
+This folder contains solutions to **LeetCode Hard-level problems**, organized folder-wise.
 Each problem includes optimized code solutions and detailed explanation materials.
 
 ---
